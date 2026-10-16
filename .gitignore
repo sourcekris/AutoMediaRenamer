@@ -16,3 +16,7 @@ renames.log
 *.renaming_tmp*
 *.reg
 
+## Release Artifacts
+*.zip
+dist/
+release/
